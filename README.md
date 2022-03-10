@@ -8,7 +8,7 @@ Project responsible for presenting my skills with HTML, CSS and JavaScript
 # Preview
 
 <div align="center" margin="50px">
-  <img src="img\imgForREADME\simpleWhite.png" width="32%" />
-  <img src="img\imgForREADME\simpleYellow.png" width="32%" />
-  <img src="img\imgForREADME\hex-08C7E8.png" width="32%" />
+  <img src="img\começo.png" width="32%" />
+  <img src="img\empate.png" width="32%" />
+  <img src="img\venceu.png" width="32%" />
 </div>
